@@ -1,0 +1,13 @@
+{
+  // "liveServer.settings.root": "/public",
+  "liveServer.settings.ignoreFiles": [
+      "/.vscode/",
+      "/*.json",
+      "/*.md"
+  ],
+  "liveServer.settings.port": 5503
+}
+
+ 
+
+
